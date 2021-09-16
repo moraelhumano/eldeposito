@@ -19,7 +19,7 @@ class Description extends Component{
                                 ¡Qué tranza banda color caguama!
                             </h3>
                             <p className="text-2xl text-white text-shadow-title mt-4">
-                                De la botella de <b>Lalo Elizarras</b> e <b>Iván Mendoza</b> aprenderás sobre el día a día de los mexicanos
+                                De la botella de <b>Lalo Elizarrarás</b> e <b>Iván Mendoza</b> aprenderás sobre el día a día de los mexicanos
                                 que hacen llegar el pan, la tortilla y a cervezas a nuestras casas.
                             </p>
                         </div>

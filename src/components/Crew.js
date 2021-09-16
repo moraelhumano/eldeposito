@@ -55,7 +55,7 @@ class Crew extends Component{
                     <Bounce left>
                         <div className="sm:w-1/2 p-4 sm-text-center flex flex-col align-center justify-center">
                             <h3 className="text-5xl text-white text-shadow-title font-bold leading-none">
-                               Lalo Elizarras
+                                Lalo Elizarrarás
                             </h3>
                             <p className="text-2xl text-white text-shadow-title mt-4">
                                Con todo el flow <b>el Iztaparrasta</b> nos enseña que el barrio también tiene buen gusto,
@@ -88,7 +88,7 @@ class Crew extends Component{
                     <Bounce>
                         <div className="sm:w-1/2 p-4 sm-text-center">
                         <h3 className="text-5xl text-white text-shadow-title font-bold leading-none">
-                               Lalo Elizarras
+                        Lalo Elizarrarás
                             </h3>
                             <p className="text-2xl text-white text-shadow-title mt-4">
                                Con todo el flow <b>el Iztaparrasta</b> nos enseña que el barrio también tiene buen gusto,
