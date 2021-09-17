@@ -27,7 +27,7 @@ class Footer extends Component{
                 </p>
             </div>
         </section>
-        <div className="h-10 w-full bg-black flex justify-center items-center py-6">
+        <div className="md:h-10 w-full bg-black flex justify-center items-center md:py-6 py-4 text-center">
             <p className="text-3xl text-white text-shadow-title">
             Este NO es un sitio web oficial, es un fanart.
             </p>
