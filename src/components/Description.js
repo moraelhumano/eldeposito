@@ -20,7 +20,7 @@ class Description extends Component{
                             </h3>
                             <p className="text-2xl text-white text-shadow-title mt-4">
                                 De la botella de <b>Lalo Elizarrarás</b> e <b>Iván Mendoza</b> aprenderás sobre el día a día de los mexicanos
-                                que hacen llegar el pan, la tortilla y a cervezas a nuestras casas.
+                                que hacen llegar el pan, las tortillas y las cervezas a nuestras mesas.
                             </p>
                         </div>
                         </ Fade>
